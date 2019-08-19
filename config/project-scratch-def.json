@@ -1,0 +1,13 @@
+{
+  "orgName": "fear-of-flow",
+  "template": "04t1U000007I4i8",
+  "hasSampleData": true,
+  "settings": {
+    "orgPreferenceSettings": {
+      "networksEnabled": false,
+      "s1DesktopEnabled": true,
+      "pathAssistantsEnabled": true,
+      "s1EncryptedStoragePref2": false
+    }
+  }
+}
